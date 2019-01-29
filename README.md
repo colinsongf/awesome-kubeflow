@@ -6,3 +6,6 @@ A curated list of awesome kubeflow tutorials, projects and communities
 
 - [Tutorials](#tutorials)
 - [Links](#links)
+
+## Tutorials
+https://banzaicloud.com/blog/tensorflow-on-k8s/
