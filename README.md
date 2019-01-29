@@ -10,3 +10,4 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ## Tutorials
 - https://banzaicloud.com/blog/tensorflow-on-k8s/
 - https://www.intel.ai/lets-flow-within-kubeflow/
+- https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines
