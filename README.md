@@ -18,3 +18,4 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving
 - GraphPipe
+- Seldon
