@@ -16,6 +16,6 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Scaling Object Detection with Kubernetes* and Kubeflow https://software.intel.com/en-us/node/783861?wapkw=kubeflow
 ## Deployment platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
-- tensorflow serving
-- GraphPipe
-- Seldon
+- tensorflow serving https://www.tensorflow.org/serving/
+- GraphPipe https://oracle.github.io/graphpipe/#/
+- Seldon https://www.seldon.io
