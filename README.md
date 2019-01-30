@@ -23,4 +23,5 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ## Simple kubeflow demo
 - iris-simple-demo train using tensorflow and serve using seldon https://github.com/alvinhenrick/kube-demo-simple
 - kube-demo-dist Distributed Training and Serving Tensorflow Model at Scale with Kubeflow , Kubernetes and Seldon. https://github.com/alvinhenrick/kube-demo-dist
-
+## Links
+- deploying deep learning-based models in production. https://github.com/ahkarami/Deep-Learning-in-Production
