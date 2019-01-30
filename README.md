@@ -21,4 +21,4 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - GraphPipe https://oracle.github.io/graphpipe/#/
 - Seldon https://www.seldon.io
 ## Simple kubeflow demo
-- iris train using tensorflow and serve using seldon https://github.com/alvinhenrick/kube-demo-simple
+- iris-simple-demo train using tensorflow and serve using seldon https://github.com/alvinhenrick/kube-demo-simple
