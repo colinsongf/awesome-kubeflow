@@ -31,5 +31,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
 - How to deploy Machine Learning models with TensorFlow. Part 2— containerize it! https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7
 - How to deploy Machine Learning models with TensorFlow. Part 3— into the Cloud! https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-3-into-the-cloud-7115ff774bb6 
+- Creating REST API for TensorFlow models https://becominghuman.ai/creating-restful-api-to-tensorflow-models-c5c57b692c10
+
 
 
