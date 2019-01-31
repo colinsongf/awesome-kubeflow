@@ -8,6 +8,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - [Deployment platform](#platforms)
 - [simple kubeflow demo](#demos)
 - [Links](#links)
+- [deployment demo](#deploy demo)
 
 ## Tutorials
 - Introduction to distributed TensorFlow on Kubernetes https://banzaicloud.com/blog/tensorflow-on-k8s/
@@ -25,3 +26,8 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - kube-demo-dist Distributed Training and Serving Tensorflow Model at Scale with Kubeflow , Kubernetes and Seldon. https://github.com/alvinhenrick/kube-demo-dist
 ## Links
 - deploying deep learning-based models in production. https://github.com/ahkarami/Deep-Learning-in-Production
+## deployment demo
+### tensorflow serving
+- How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
+- How to deploy Machine Learning models with TensorFlow. Part 2— containerize it! https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7
+
