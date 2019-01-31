@@ -30,6 +30,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ## Links
 - deploying deep learning-based models in production. https://github.com/ahkarami/Deep-Learning-in-Production
 - Kubeflow in 2018: A year in perspective https://medium.com/kubeflow/kubeflow-in-2018-a-year-in-perspective-49c273b490f4
+- Distributed training framework for TensorFlow, Keras, PyTorch, and MXNet https://github.com/uber/horovod
 ## deployment-demo
 ### tensorflow serving
 - How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
