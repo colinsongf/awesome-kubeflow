@@ -5,7 +5,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ## Table of Contents
 
 - [Tutorials](#tutorials)
-- [Deployment platform](#Deployment platform)
+- [Deployment platform](#deployment platform)
 - [simple kubeflow demo](#simple kubeflow demo)
 - [Links](#links)
 - [deployment demo](#deployment demo)
