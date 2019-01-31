@@ -5,10 +5,10 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ## Table of Contents
 
 - [Tutorials](#tutorials)
-- [Deployment platform](#platforms)
-- [simple kubeflow demo](#demos)
+- [Deployment platform](#Deployment platform)
+- [simple kubeflow demo](#simple kubeflow demo)
 - [Links](#links)
-- [deployment demo](#deploy demo)
+- [deployment demo](#deployment demo)
 
 ## Tutorials
 - Introduction to distributed TensorFlow on Kubernetes https://banzaicloud.com/blog/tensorflow-on-k8s/
