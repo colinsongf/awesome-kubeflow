@@ -24,6 +24,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - tensorflow serving https://www.tensorflow.org/serving/
 - GraphPipe https://oracle.github.io/graphpipe/#/
 - Seldon https://www.seldon.io
+- nauta https://github.com/IntelAI/nauta
 ## Simple-kubeflow-demo
 - iris-simple-demo train using tensorflow and serve using seldon https://github.com/alvinhenrick/kube-demo-simple
 - kube-demo-dist Distributed Training and Serving Tensorflow Model at Scale with Kubeflow , Kubernetes and Seldon. https://github.com/alvinhenrick/kube-demo-dist
