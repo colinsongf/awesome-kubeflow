@@ -41,6 +41,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - How to deploy Machine Learning models with TensorFlow. Part 3— into the Cloud! https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-3-into-the-cloud-7115ff774bb6 
 - Creating REST API for TensorFlow models https://becominghuman.ai/creating-restful-api-to-tensorflow-models-c5c57b692c10
 - Istio Integration (for TF Serving) https://www.kubeflow.org/docs/components/istio/
+- Gather how to deploy tensorflow models using nginx, hadoop, kafka, flask, gunicorn, socketio, docker swarm, luigi spotify, airflow, celery and so much more! https://github.com/huseinzol05/Gather-Tensorflow-Serving
 ### Istio
 - Running Istio on kubernetes in production. Part I. https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
 
