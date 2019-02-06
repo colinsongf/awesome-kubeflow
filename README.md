@@ -9,6 +9,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - [simple-kubeflow-demo](#simple-kubeflow-demo)
 - [Links](#links)
 - [deployment-demo](#deployment-demo)
+- [k8s-demo](#k8s-demo)
 
 ## Tutorials
 - Introduction to distributed TensorFlow on Kubernetes https://banzaicloud.com/blog/tensorflow-on-k8s/
@@ -50,6 +51,8 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 使用Kubernetes和TensorFlow Serving将神经网络镜像分类进行弹性扩容 https://segmentfault.com/a/1190000004829764?utm_source=tag-newest
 ### Istio
 - Running Istio on kubernetes in production. Part I. https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
+## k8s-demo
+
 
 
 
