@@ -21,6 +21,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - How to create and deploy a Kubeflow Machine Learning Pipeline (Part 1-complete code) https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive/06_structured/pipelines
 - How to deploy Jupyter notebooks as components of a Kubeflow ML pipeline (Part 2) https://towardsdatascience.com/how-to-deploy-jupyter-notebooks-as-components-of-a-kubeflow-ml-pipeline-part-2-b1df77f4e5b3
 - Kubeflow on Amazon EKS https://aws.amazon.com/cn/blogs/opensource/kubeflow-amazon-eks/
+- Kubeflow 使用指南 https://yq.aliyun.com/articles/680267
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
