@@ -52,6 +52,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ### Istio
 - Running Istio on kubernetes in production. Part I. https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
 ## k8s-demo
+- Kubernetes单机部署手册 https://blog.csdn.net/u011641865/article/details/73845460
 
 
 
