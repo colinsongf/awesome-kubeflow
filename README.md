@@ -62,6 +62,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubernetes单机部署手册 https://blog.csdn.net/u011641865/article/details/73845460
 - 基于kubernetes的tensorflow单机训练与服务部署 https://blog.csdn.net/xingyuzhe/article/details/83863823
 - Kubernetes NetworkPolicy工作原理浅析 https://www.opsdev.cn/post/kubernetes-netwrok-policy-details.html
+- Kubernetes持久化存储Cephfs https://www.opsdev.cn/post/k8s-cephfs.html
 ## k8s-install 
 - OKD: The Origin Community Distribution of Kubernetes https://github.com/openshift/origin?spm=a2c4e.11153940.blogcont680267.54.19f4541fXeBcpW https://www.okd.io
 
