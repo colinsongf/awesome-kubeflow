@@ -44,6 +44,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubeflow 0.4: Release Update & What’s Coming https://medium.com/kubeflow/kubeflow-0-4-release-update-whats-coming-c55820e28915
 - Kubeflow 0.4 Release: Enhancements for Machine Learning productivity https://medium.com/kubeflow/kubeflow-0-4-release-enhancements-for-machine-learning-productivity-d77c54df07a9
 - 开发 | 2018 年最富含金量的 6 款开源机器学习项目 https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247493799&idx=2&sn=4e4e7132d3cb6617660a46c1eaed007c&scene=0#wechat_redirect
+- 业界 | 谷歌发布机器学习工具库Kubeflow：可提供最佳OSS解决方案 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734516&idx=3&sn=33b6048ed12d08e9fd741f8811b84227
 ## deployment-demo
 ### tensorflow serving
 - How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
