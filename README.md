@@ -23,6 +23,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubeflow on Amazon EKS https://aws.amazon.com/cn/blogs/opensource/kubeflow-amazon-eks/
 - Kubeflow 使用指南 https://yq.aliyun.com/articles/680267
 - 基于 Kubeflow 的机器学习调度平台落地实战 http://www.uml.org.cn/ai/201901303.asp
+- Yarn已过时！Kubeflow实现机器学习调度平台才是未来 https://www.jiqizhixin.com/articles/2019-01-31-14
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
