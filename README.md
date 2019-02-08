@@ -33,6 +33,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubeflow: Cloud-native machine learning with Kubernetes-openshift https://opensource.com/article/18/6/kubeflow
 - Using GitOps to Deploy Kubeflow with Argo CD https://www.colabug.com/5046530.html
 - How to create and deploy a Kubeflow Machine Learning Pipeline (Part 1) https://www.colabug.com/5329927.html
+- Getting started with Kubeflow Pipelines https://www.colabug.com/5279442.html
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
