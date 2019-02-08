@@ -37,6 +37,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubeflow使用Kubernetes进行机器学习 https://www.colabug.com/5385292.html
 - Kubeflow 快速入门 https://my.oschina.net/u/2306127/blog/1807788
 - 无人驾驶场景下 Kubeflow 的应用与开发 https://mp.weixin.qq.com/s?src=11&timestamp=1549604252&ver=1415&signature=ofKVVbBc4pwYxfAEopAixkXyeh7GnALCWBTmykgb6vp*nS3vSVmZQ5cFcnFgqQNq-sGNpYlIq079bGmrUK10XEqSJPOp2AojiNYhhyYAL4D6BaCY5WA8yJX7Ny6KtPm8&new=1
+- Distributed Tensorflow deployed to Azure AKS Kubernetes using GPU instances https://banzaicloud.com/blog/tensorflow-on-gpu-azure/
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
