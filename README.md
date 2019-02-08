@@ -31,6 +31,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - MXNet结合kubeflow进行分布式训练 https://xigang.github.io/2019/01/17/mxnet/
 - Tensorflow结合kubeflow进行分布式训练 https://xigang.github.io/2019/01/30/tensorflow/
 - Kubeflow: Cloud-native machine learning with Kubernetes-openshift https://opensource.com/article/18/6/kubeflow
+- Using GitOps to Deploy Kubeflow with Argo CD https://www.colabug.com/5046530.html
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
