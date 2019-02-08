@@ -80,6 +80,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Etcd集群备份及容灾恢复 https://xigang.github.io/2018/08/18/etcd-back/
 - GPU Container on Kubernetes https://xigang.github.io/2018/09/01/gpu/ 
 - Etcd入门篇-集群搭建及基本使用 https://xigang.github.io/2018/05/05/etcd-md/
+- 浅谈Linux服务管理器Systemd https://xigang.github.io/2018/05/05/systemctl/
 ## k8s-install 
 - OKD: The Origin Community Distribution of Kubernetes https://github.com/openshift/origin?spm=a2c4e.11153940.blogcont680267.54.19f4541fXeBcpW https://www.okd.io
 
