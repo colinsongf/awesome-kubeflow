@@ -27,6 +27,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - MXNet结合kubeflow进行分布式训练 https://www.opsdev.cn/post/mxnet.html
 - Kubeflow使用Kubernetes进行机器学习 https://www.opsdev.cn/post/kubeflow-intro.html
 - Kubeflow – Jupyter Notebook on Kubernetes https://www.lotharschulz.info/2018/05/06/kubeflow-jupyter-notebook-on-kubernetes/
+- Kubeflow使用Kubernetes进行机器学习 https://xigang.github.io/2018/12/08/kubeflow-intro/
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
