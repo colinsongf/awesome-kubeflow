@@ -77,6 +77,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - kubernetes持久化存储Ceph RBD https://xigang.github.io/2018/05/05/ceph-rbd/
 - Kubernetes持久化存储cephfs https://xigang.github.io/2018/05/05/cephfs/
 - 基于Kubernetes容器云日志采集与处理实践 https://xigang.github.io/2018/05/19/kubernetes-docker-log/
+- Etcd集群备份及容灾恢复 https://xigang.github.io/2018/08/18/etcd-back/
 ## k8s-install 
 - OKD: The Origin Community Distribution of Kubernetes https://github.com/openshift/origin?spm=a2c4e.11153940.blogcont680267.54.19f4541fXeBcpW https://www.okd.io
 
