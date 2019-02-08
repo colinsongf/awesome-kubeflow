@@ -70,6 +70,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - nvidia-docker2在kubernetes上实践 https://www.opsdev.cn/post/nvidia-docker2.html
 - kubernetes 中 deployment 支持哪些键值 https://www.opsdev.cn/post/kubernetes-deployment-fileds.html
 - Nvidia-Docker2在kubernetes上实践 https://xigang.github.io/2018/11/05/nvidia-docker2/
+- Kubernetes DNS 介绍 https://xigang.github.io/2018/11/24/kube-dns/
 ## k8s-install 
 - OKD: The Origin Community Distribution of Kubernetes https://github.com/openshift/origin?spm=a2c4e.11153940.blogcont680267.54.19f4541fXeBcpW https://www.okd.io
 
