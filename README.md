@@ -89,6 +89,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 浅谈Linux服务管理器Systemd https://xigang.github.io/2018/05/05/systemctl/
 ## k8s-install 
 - OKD: The Origin Community Distribution of Kubernetes https://github.com/openshift/origin?spm=a2c4e.11153940.blogcont680267.54.19f4541fXeBcpW https://www.okd.io
+- Create a Kubernetes cron job in OKD https://opensource.com/article/19/1/create-build-and-deploy-cron-job-okd
 
 
 
