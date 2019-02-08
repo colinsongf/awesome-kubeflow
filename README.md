@@ -95,6 +95,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ## k8s-install 
 - OKD: The Origin Community Distribution of Kubernetes https://github.com/openshift/origin?spm=a2c4e.11153940.blogcont680267.54.19f4541fXeBcpW https://www.okd.io
 - Create a Kubernetes cron job in OKD https://opensource.com/article/19/1/create-build-and-deploy-cron-job-okd
+- The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift. https://www.okd.io
 
 
 
