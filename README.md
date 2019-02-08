@@ -35,6 +35,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - How to create and deploy a Kubeflow Machine Learning Pipeline (Part 1) https://www.colabug.com/5329927.html
 - Getting started with Kubeflow Pipelines https://www.colabug.com/5279442.html
 - Kubeflow使用Kubernetes进行机器学习 https://www.colabug.com/5385292.html
+- Kubeflow 快速入门 https://my.oschina.net/u/2306127/blog/1807788
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
