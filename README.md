@@ -98,6 +98,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift. https://www.okd.io
 - AWS RHEL/CentOS 7快速安装配置OpenShift http://blog.51cto.com/7308310/2171091?source=dra
 - Openshift概念 https://www.jianshu.com/p/a4712351142d
+- ubuntu install k8s https://github.com/demoyuw/k8s
 
 
 
