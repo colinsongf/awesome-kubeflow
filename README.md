@@ -97,6 +97,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Create a Kubernetes cron job in OKD https://opensource.com/article/19/1/create-build-and-deploy-cron-job-okd
 - The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift. https://www.okd.io
 - AWS RHEL/CentOS 7快速安装配置OpenShift http://blog.51cto.com/7308310/2171091?source=dra
+- Openshift概念 https://www.jianshu.com/p/a4712351142d
 
 
 
