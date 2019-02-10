@@ -104,6 +104,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - rancher https://github.com/ziozzang/k8s-offline-installer/blob/master/run-rancher.sh
 - 快速建立Kubernetes集群，从零开始 https://my.oschina.net/u/2306127/blog/2222927
 - ubuntu下使用kubeadm安装部署kubernetes v1.10 https://blog.csdn.net/qq_37423198/article/details/79762687
+- Kubernetes on Ubuntu https://kubernetes.io/docs/getting-started-guides/ubuntu/
 
 
 
