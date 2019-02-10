@@ -102,6 +102,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - kubeadm install k8s https://github.com/kian1990/k8s
 - 和我一步步部署 kubernetes 集群 https://github.com/opsnull/follow-me-install-kubernetes-cluster
 - rancher https://github.com/ziozzang/k8s-offline-installer/blob/master/run-rancher.sh
+- 快速建立Kubernetes集群，从零开始 https://my.oschina.net/u/2306127/blog/2222927
 
 
 
