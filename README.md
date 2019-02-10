@@ -64,6 +64,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 实例+代码，你还怕不会构建深度学习的代码搜索库吗 https://ai.yanxishe.com/page/TextTranslation/707
 - Introduction to Kubeflow https://www.oliverwyman.com/content/dam/oliver-wyman/v2/events/2018/March/Google_London_Event/Public%20Introduction%20to%20Kubeflow.pdf
 - https://radanalytics.io
+- https://conjure-up.io
 ## deployment-demo
 ### tensorflow serving
 - How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
