@@ -107,6 +107,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - ubuntu下使用kubeadm安装部署kubernetes v1.10 https://blog.csdn.net/qq_37423198/article/details/79762687
 - Kubernetes on Ubuntu https://kubernetes.io/docs/getting-started-guides/ubuntu/
 - Local Kubernetes development with LXD https://kubernetes.io/docs/getting-started-guides/ubuntu/local/
+- A Kubernetes multi-node test cluster based on kubeadm https://github.com/kubernetes-sigs/kubeadm-dind-cluster
 
 
 
