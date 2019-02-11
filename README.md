@@ -108,6 +108,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubernetes on Ubuntu https://kubernetes.io/docs/getting-started-guides/ubuntu/
 - Local Kubernetes development with LXD https://kubernetes.io/docs/getting-started-guides/ubuntu/local/
 - A Kubernetes multi-node test cluster based on kubeadm https://github.com/kubernetes-sigs/kubeadm-dind-cluster
+- 必须收藏！50个最流行的免费Kubernetes工具集 http://cloud.51cto.com/art/201806/576406.htm
 
 
 
