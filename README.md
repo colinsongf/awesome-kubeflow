@@ -117,6 +117,8 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 可爱的 LXD 系统容器 https://yq.aliyun.com/articles/578196
 - Ubuntu 16.04系统下安装LXD容器的详细教程 https://www.osetc.com/archives/20176.html
 - Tutorial Part 1: Kubernetes up and running on LXC/LXD https://itnext.io/tutorial-part-1-kubernetes-up-and-running-on-lxc-lxd-b760c79cd53f
+## docker in docker 
+- Trying New Features in Docker, Part 2: Setting Up a Kubernetes Cluster Using Docker in Docker https://dzone.com/articles/trying-new-features-in-docker-part-2-setting-up-a
 
 
 
