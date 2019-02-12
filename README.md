@@ -119,6 +119,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Tutorial Part 1: Kubernetes up and running on LXC/LXD https://itnext.io/tutorial-part-1-kubernetes-up-and-running-on-lxc-lxd-b760c79cd53f
 ## docker in docker 
 - Trying New Features in Docker, Part 2: Setting Up a Kubernetes Cluster Using Docker in Docker https://dzone.com/articles/trying-new-features-in-docker-part-2-setting-up-a
+- Setting up a Kubernetes cluster using Docker in Docker http://callistaenterprise.se/blogg/teknik/2017/12/20/kubernetes-on-docker-in-docker/
 
 
 
