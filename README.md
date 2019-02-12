@@ -120,6 +120,8 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ## docker in docker 
 - Trying New Features in Docker, Part 2: Setting Up a Kubernetes Cluster Using Docker in Docker https://dzone.com/articles/trying-new-features-in-docker-part-2-setting-up-a
 - Setting up a Kubernetes cluster using Docker in Docker http://callistaenterprise.se/blogg/teknik/2017/12/20/kubernetes-on-docker-in-docker/
+## rancher 
+- Kubernetes-基于Rancher进行Kubernetes的离线安装 https://yq.aliyun.com/articles/679302
 
 
 
