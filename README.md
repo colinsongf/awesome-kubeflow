@@ -90,6 +90,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 ### seldon
 - Seldon and TensorFlow Serving https://github.com/SeldonIO/seldon-core/blob/master/examples/models/tfserving-mnist/tfserving-mnist.ipynb
 - Manage ML Deployments Like A Boss: Deploy Your First AB Test With Sklearn, Kubernetes and Seldon-core using Only Your Web Browser & Google Cloud  https://medium.com/analytics-vidhya/manage-ml-deployments-like-a-boss-deploy-your-first-ab-test-with-sklearn-kubernetes-and-b10ae0819dfe
+- Introducing Seldon Core — Machine Learning Deployment for Kubernetes https://medium.com/seldon-open-source-machine-learning/introducing-seldon-core-machine-learning-deployment-for-kubernetes-e10e94c19fd8
 ### Istio
 - Running Istio on kubernetes in production. Part I. https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
 
