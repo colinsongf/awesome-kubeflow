@@ -41,6 +41,8 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Deep Learning Reference Stack kubeflow 0.4.1 https://clearlinux.org/documentation/clear-linux/tutorials/dlrs
 - Kubeflow安裝及入門 http://tblog.pp4fun.com/2018/11/Kubeflow安裝及入門.html
 - KubeFlow安装指南 https://bbs.huaweicloud.com/blogs/413d1821c1a211e89fc57ca23e93a89f
+## ksonnet
+- ksonnet 一个简化编写以及部署kubernetes的工具 https://www.cnblogs.com/rongfengliang/p/9977414.html
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
