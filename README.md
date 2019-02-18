@@ -39,6 +39,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 无人驾驶场景下 Kubeflow 的应用与开发 https://mp.weixin.qq.com/s?src=11&timestamp=1549604252&ver=1415&signature=ofKVVbBc4pwYxfAEopAixkXyeh7GnALCWBTmykgb6vp*nS3vSVmZQ5cFcnFgqQNq-sGNpYlIq079bGmrUK10XEqSJPOp2AojiNYhhyYAL4D6BaCY5WA8yJX7Ny6KtPm8&new=1
 - Distributed Tensorflow deployed to Azure AKS Kubernetes using GPU instances https://banzaicloud.com/blog/tensorflow-on-gpu-azure/
 - Deep Learning Reference Stack kubeflow 0.4.1 https://clearlinux.org/documentation/clear-linux/tutorials/dlrs
+- Kubeflow安裝及入門 http://tblog.pp4fun.com/2018/11/Kubeflow安裝及入門.html
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
