@@ -49,7 +49,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Introducing kuku: kubernetes template tool https://plugaru.org/2018/09/27/kuku/
 ## Polyaxon
 - Polyaxon: 一个帮助您构建，管理和监控深度学习模型的平台 https://javascript.ctolib.com/article/wiki/48067
-- Polyaxon, Argo and Seldon for model training, package and deployment in Kubernetes https://danielfrg.com/blog/2018/10/model-management-polyaxon-argo-seldon/
+- Polyaxon, Argo and Seldon for model training, package and deployment in Kubernetes https://danielfrg.com/blog/2018/10/model-management-polyaxon-argo-seldon/ https://github.com/danielfrg/polyaxon-argo-seldon-example
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
