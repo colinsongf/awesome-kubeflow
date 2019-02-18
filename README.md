@@ -44,6 +44,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubeflow 使用指南 https://my.oschina.net/u/2306127/blog/1808582
 ## ksonnet
 - ksonnet 一个简化编写以及部署kubernetes的工具 https://www.cnblogs.com/rongfengliang/p/9977414.html
+- ksonnet 使用教程  https://my.oschina.net/u/2306127/blog/1808581
 ## Deployment-platform
 - Fabric for Deep Learning (FfDL) https://github.com/IBM/FfDL
 - tensorflow serving https://www.tensorflow.org/serving/
