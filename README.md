@@ -87,8 +87,10 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 使用Kubernetes和TensorFlow Serving将神经网络镜像分类进行弹性扩容 https://segmentfault.com/a/1190000004829764?utm_source=tag-newest
 ### seldon
 - Seldon and TensorFlow Serving https://github.com/SeldonIO/seldon-core/blob/master/examples/models/tfserving-mnist/tfserving-mnist.ipynb
+- Manage ML Deployments Like A Boss: Deploy Your First AB Test With Sklearn, Kubernetes and Seldon-core using Only Your Web Browser & Google Cloud  https://medium.com/analytics-vidhya/manage-ml-deployments-like-a-boss-deploy-your-first-ab-test-with-sklearn-kubernetes-and-b10ae0819dfe
 ### Istio
 - Running Istio on kubernetes in production. Part I. https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
+
 ## k8s-demo
 - Kubernetes单机部署手册 https://blog.csdn.net/u011641865/article/details/73845460
 - 基于kubernetes的tensorflow单机训练与服务部署 https://blog.csdn.net/xingyuzhe/article/details/83863823
