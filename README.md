@@ -54,6 +54,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - MapR: Unified Management, No Overhead https://mapr.com/
 - Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow https://eng.uber.com/horovod/
 - Jenkins 与 Docker 的持续集成实践一 https://www.opsdev.cn/post/jenkins-docker-01.html
+- Installing Kubeflow with MapR https://mapr.com/blog/installing-kubeflow-with-mapr/
 ## Simple-kubeflow-demo
 - iris-simple-demo train using tensorflow and serve using seldon https://github.com/alvinhenrick/kube-demo-simple
 - kube-demo-dist Distributed Training and Serving Tensorflow Model at Scale with Kubeflow , Kubernetes and Seldon. https://github.com/alvinhenrick/kube-demo-dist
