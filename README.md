@@ -42,6 +42,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubeflow安裝及入門 http://tblog.pp4fun.com/2018/11/Kubeflow安裝及入門.html
 - KubeFlow安装指南 https://bbs.huaweicloud.com/blogs/413d1821c1a211e89fc57ca23e93a89f
 - Kubeflow 使用指南 https://my.oschina.net/u/2306127/blog/1808582
+- Running Kubeflow On IBM Cloud Private https://medium.com/ibm-cloud/icp-for-kubeflow-30416b928e8e
 ## ksonnet
 - ksonnet 一个简化编写以及部署kubernetes的工具 https://www.cnblogs.com/rongfengliang/p/9977414.html
 - ksonnet 使用教程  https://my.oschina.net/u/2306127/blog/1808581
