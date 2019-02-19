@@ -87,6 +87,8 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Istio Integration (for TF Serving) https://www.kubeflow.org/docs/components/istio/
 - Gather how to deploy tensorflow models using nginx, hadoop, kafka, flask, gunicorn, socketio, docker swarm, luigi spotify, airflow, celery and so much more! https://github.com/huseinzol05/Gather-Tensorflow-Serving
 - 使用Kubernetes和TensorFlow Serving将神经网络镜像分类进行弹性扩容 https://segmentfault.com/a/1190000004829764?utm_source=tag-newest
+### pytorch serving
+- Train PyTorch models with Azure Machine Learning service https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch
 ### seldon
 - Seldon and TensorFlow Serving https://github.com/SeldonIO/seldon-core/blob/master/examples/models/tfserving-mnist/tfserving-mnist.ipynb
 - Manage ML Deployments Like A Boss: Deploy Your First AB Test With Sklearn, Kubernetes and Seldon-core using Only Your Web Browser & Google Cloud  https://medium.com/analytics-vidhya/manage-ml-deployments-like-a-boss-deploy-your-first-ab-test-with-sklearn-kubernetes-and-b10ae0819dfe
