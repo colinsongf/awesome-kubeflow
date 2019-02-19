@@ -89,6 +89,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 使用Kubernetes和TensorFlow Serving将神经网络镜像分类进行弹性扩容 https://segmentfault.com/a/1190000004829764?utm_source=tag-newest
 ### pytorch serving
 - Train PyTorch models with Azure Machine Learning service https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch
+- Deploy your PyTorch model to Production https://medium.com/datadriveninvestor/deploy-your-pytorch-model-to-production-f69460192217
 ### seldon
 - Seldon and TensorFlow Serving https://github.com/SeldonIO/seldon-core/blob/master/examples/models/tfserving-mnist/tfserving-mnist.ipynb
 - Manage ML Deployments Like A Boss: Deploy Your First AB Test With Sklearn, Kubernetes and Seldon-core using Only Your Web Browser & Google Cloud  https://medium.com/analytics-vidhya/manage-ml-deployments-like-a-boss-deploy-your-first-ab-test-with-sklearn-kubernetes-and-b10ae0819dfe
