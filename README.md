@@ -79,6 +79,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Introduction to Kubeflow https://www.oliverwyman.com/content/dam/oliver-wyman/v2/events/2018/March/Google_London_Event/Public%20Introduction%20to%20Kubeflow.pdf
 - https://radanalytics.io
 - https://conjure-up.io
+- Some utilities to help with kubeflow development https://github.com/jlewi/kubeflow-dev
 ## deployment-demo
 ### tensorflow serving
 - How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
