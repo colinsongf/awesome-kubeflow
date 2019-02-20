@@ -47,6 +47,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - ksonnet 一个简化编写以及部署kubernetes的工具 https://www.cnblogs.com/rongfengliang/p/9977414.html
 - ksonnet 使用教程  https://my.oschina.net/u/2306127/blog/1808581
 - Introducing kuku: kubernetes template tool https://plugaru.org/2018/09/27/kuku/
+- A Jsonnet builder for Container Builder https://medium.com/@DazWilkin/a-jsonnet-builder-for-container-builder-71a0f6c18db7
 ## Polyaxon
 - Polyaxon: 一个帮助您构建，管理和监控深度学习模型的平台 https://javascript.ctolib.com/article/wiki/48067
 - Polyaxon, Argo and Seldon for model training, package and deployment in Kubernetes https://danielfrg.com/blog/2018/10/model-management-polyaxon-argo-seldon/ https://github.com/danielfrg/polyaxon-argo-seldon-example
