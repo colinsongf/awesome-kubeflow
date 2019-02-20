@@ -80,6 +80,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - https://radanalytics.io
 - https://conjure-up.io
 - Some utilities to help with kubeflow development https://github.com/jlewi/kubeflow-dev
+- How To Create Data Products That Are Magical Using Sequence-to-Sequence Models https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8
 ## deployment-demo
 ### tensorflow serving
 - How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving. https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
