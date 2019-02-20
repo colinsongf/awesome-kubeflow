@@ -45,6 +45,8 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Running Kubeflow On IBM Cloud Private https://medium.com/ibm-cloud/icp-for-kubeflow-30416b928e8e
 - Using Kubeflow to manage TensorFlow applications (Part 1) https://www.inwinstack.com/en/2018/12/04/kubeflow-tensorflow-part1/
 - Using Kubeflow to manage TensorFlow applications (Part 2) https://www.inwinstack.com/en/2018/12/04/kubeflow-tensorflow-part2/
+## trouble shooting
+- Kubernetes hack/local-up-cluster.sh 无法启动 DNS 的问题溯源 http://gaocegege.com/Blog/kubernetes/kubernetes-localup
 ## ksonnet
 - ksonnet 一个简化编写以及部署kubernetes的工具 https://www.cnblogs.com/rongfengliang/p/9977414.html
 - ksonnet 使用教程  https://my.oschina.net/u/2306127/blog/1808581
