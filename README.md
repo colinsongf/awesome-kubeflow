@@ -55,6 +55,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Draft vs Gitkube vs Helm vs Ksonnet vs Metaparticle vs Skaffold https://blog.hasura.io/draft-vs-gitkube-vs-helm-vs-ksonnet-vs-metaparticle-vs-skaffold-f5aa9561f948/
 - ksonnet modules https://blil.es/ksonnet-modules-7041b2b398b6
 - Ksonnet example applications https://github.com/jessesuen/ksonnet-examples
+- Super quick view at ksonnet https://medium.com/@enxebre/super-quick-view-at-ksonnet-20defac2962
 ## Polyaxon
 - Polyaxon: 一个帮助您构建，管理和监控深度学习模型的平台 https://javascript.ctolib.com/article/wiki/48067
 - Polyaxon, Argo and Seldon for model training, package and deployment in Kubernetes https://danielfrg.com/blog/2018/10/model-management-polyaxon-argo-seldon/ https://github.com/danielfrg/polyaxon-argo-seldon-example
