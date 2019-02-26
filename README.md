@@ -49,6 +49,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 我试过触摸kubeflow https://techbird.site/ohtaman-items-05e4e117a81c7393d875/
 - When Deep Learning with GPUs, use a Cluster Manager https://www.logicalclocks.com/deep-learners-use-a-cluster-manager-for-your-gpus/
 - Distributed Tensorflow deployed to Azure AKS Kubernetes using GPU instances https://banzaicloud.com/blog/tensorflow-on-gpu-azure/
+- ChainerMN on Kubernetes with GPUs https://chainer.org/general/2018/05/10/chainermn-on-kubernetes.html
 ## trouble shooting
 - Kubernetes hack/local-up-cluster.sh 无法启动 DNS 的问题溯源 http://gaocegege.com/Blog/kubernetes/kubernetes-localup
 ## ksonnet
