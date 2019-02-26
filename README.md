@@ -51,6 +51,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Distributed Tensorflow deployed to Azure AKS Kubernetes using GPU instances https://banzaicloud.com/blog/tensorflow-on-gpu-azure/
 - ChainerMN on Kubernetes with GPUs https://chainer.org/general/2018/05/10/chainermn-on-kubernetes.html
 - Use GPUs for compute-intensive workloads on Azure Kubernetes Service (AKS) https://docs.microsoft.com/en-us/azure/aks/gpu-cluster
+- Setup guide for the ultimate Deep Learning workstation, powered by NVIDIA https://nvaitc.github.io/workstation-setup-guide/kubeflow-setup.html
 ## trouble shooting
 - Kubernetes hack/local-up-cluster.sh 无法启动 DNS 的问题溯源 http://gaocegege.com/Blog/kubernetes/kubernetes-localup
 ## ksonnet
