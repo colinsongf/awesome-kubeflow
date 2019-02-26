@@ -47,6 +47,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Using Kubeflow to manage TensorFlow applications (Part 2) https://www.inwinstack.com/en/2018/12/04/kubeflow-tensorflow-part2/
 - Experiment with Kubeflow https://mc.ai/experiment-with-kubeflow/
 - 我试过触摸kubeflow https://techbird.site/ohtaman-items-05e4e117a81c7393d875/
+- When Deep Learning with GPUs, use a Cluster Manager https://www.logicalclocks.com/deep-learners-use-a-cluster-manager-for-your-gpus/
 ## trouble shooting
 - Kubernetes hack/local-up-cluster.sh 无法启动 DNS 的问题溯源 http://gaocegege.com/Blog/kubernetes/kubernetes-localup
 ## ksonnet
