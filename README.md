@@ -56,6 +56,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubeflow Mnist范例介绍 http://tblog.pp4fun.com/2019/2/Kubeflow%20Mnist%E7%AF%84%E4%BE%8B%E4%BB%8B%E7%B4%B9.html
 - Kubeflow安裝及入門 http://tblog.pp4fun.com/2018/11/Kubeflow%E5%AE%89%E8%A3%9D%E5%8F%8A%E5%85%A5%E9%96%80.html
 - Kubeflow Pipeline 研究心得 http://tblog.pp4fun.com/2019/2/Kubeflow%20Pipeline%20%E7%A0%94%E7%A9%B6%E5%BF%83%E5%BE%97.html
+- Seldon Core on KubeFlow http://tblog.pp4fun.com/2019/1/Seldon%20Core%20on%20KubeFlow.html
 ## trouble shooting
 - Kubernetes hack/local-up-cluster.sh 无法启动 DNS 的问题溯源 http://gaocegege.com/Blog/kubernetes/kubernetes-localup
 ## ksonnet
