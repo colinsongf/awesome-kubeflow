@@ -53,6 +53,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Use GPUs for compute-intensive workloads on Azure Kubernetes Service (AKS) https://docs.microsoft.com/en-us/azure/aks/gpu-cluster
 - Setup guide for the ultimate Deep Learning workstation, powered by NVIDIA https://nvaitc.github.io/workstation-setup-guide/kubeflow-setup.html
 - K8s Custom Resource and Operator For TensorFlow jobs https://www.diycode.cc/projects/tensorflow/k8s
+- Kubeflow Mnist范例介绍 http://tblog.pp4fun.com/2019/2/Kubeflow%20Mnist%E7%AF%84%E4%BE%8B%E4%BB%8B%E7%B4%B9.html
 ## trouble shooting
 - Kubernetes hack/local-up-cluster.sh 无法启动 DNS 的问题溯源 http://gaocegege.com/Blog/kubernetes/kubernetes-localup
 ## ksonnet
