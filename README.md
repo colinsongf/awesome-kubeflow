@@ -58,6 +58,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubeflow Pipeline 研究心得 http://tblog.pp4fun.com/2019/2/Kubeflow%20Pipeline%20%E7%A0%94%E7%A9%B6%E5%BF%83%E5%BE%97.html
 - Seldon Core on KubeFlow http://tblog.pp4fun.com/2019/1/Seldon%20Core%20on%20KubeFlow.html
 - tensorflow-on-kubeflow https://blog.spider.im/2018/06/29/tensorflow-on-kubeflow/
+- Serve a local model using Tensorflow Serving https://github.com/kubeflow/kubeflow/blob/master/components/k8s-model-server/Serve%20a%20local%20model%20using%20Tensorflow%20Serving.md
 ## trouble shooting
 - Kubernetes hack/local-up-cluster.sh 无法启动 DNS 的问题溯源 http://gaocegege.com/Blog/kubernetes/kubernetes-localup
 ## ksonnet
