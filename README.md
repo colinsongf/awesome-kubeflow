@@ -141,6 +141,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - Kubernetes集成TensorFlow服务 https://my.oschina.net/u/2306127/blog/1811348
 - Getting Started with Kubernetes: Deploy a Docker Container with Kubernetes in 5 minutes https://codeburst.io/getting-started-with-kubernetes-deploy-a-docker-container-with-kubernetes-in-5-minutes-eb4be0e96370
 - Getting started with HDFS on Kubernetes https://blog.hasura.io/getting-started-with-hdfs-on-kubernetes-a75325d4178c/
+- Accessing an application on Kubernetes in Docker https://medium.com/@lizrice/accessing-an-application-on-kubernetes-in-docker-1054d46b64b1
 ## k8s-install 
 - OKD: The Origin Community Distribution of Kubernetes https://github.com/openshift/origin?spm=a2c4e.11153940.blogcont680267.54.19f4541fXeBcpW https://www.okd.io
 - Create a Kubernetes cron job in OKD https://opensource.com/article/19/1/create-build-and-deploy-cron-job-okd
