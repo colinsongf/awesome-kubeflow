@@ -115,6 +115,7 @@ A curated list of awesome kubeflow tutorials, projects and communities
 - 使用Kubernetes和TensorFlow Serving将神经网络镜像分类进行弹性扩容 https://segmentfault.com/a/1190000004829764?utm_source=tag-newest
 - Deploying Keras models using TensorFlow Serving and Flask https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037
 - TensorFlow 模型如何对外提供服务 saved_model_cli https://blog.csdn.net/zjerryj/article/details/80308713
+- TF Serving -Auto Wrap your TF or Keras model & Deploy it with a production-grade GRPC Interface https://towardsdatascience.com/using-tensorflow-serving-grpc-38a722451064
 ### pytorch serving
 - Train PyTorch models with Azure Machine Learning service https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch
 - Deploy your PyTorch model to Production https://medium.com/datadriveninvestor/deploy-your-pytorch-model-to-production-f69460192217
